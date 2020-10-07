@@ -22,7 +22,7 @@ When you want to generate your own APK;
 - Change package com.mycompany.myngdroidapp to your own package name,
 - Put your game icon into res/mipmap folders,
 - Modify the app/build.graddle and
-- Modify AndroidManifest.xml.
+- Modify AndroidManifest.xml..
 
 There are still a lot of rooms to develop. Contributions are really appreciated.
 
