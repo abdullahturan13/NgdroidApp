@@ -10,7 +10,7 @@ The framework has got;
 - Main loop (main thread),
 - NgApp (the root class),
 - CanvasManager and
-- GameCanvas.
+- DandanTank Workspace
 
 All you have to do is opening GameCanvas and start coding your game.
 
